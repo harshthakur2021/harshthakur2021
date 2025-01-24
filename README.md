@@ -1,6 +1,6 @@
-# 💫 About Me:
-Hi 👋, I'm Harsh Thakur<br>A web Developer From India<br>📫 How to reach me **harshth1010@gmail.com**
 
+<h1 align="center">Hey, I'm Harsh Thakur! 👋</h1>
+<h3 align="center">A developer who codes with passion, creates solutions! 💻🔥</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@harsh_thakur1362) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh1331/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Harsh76768) 
@@ -16,3 +16,26 @@ Hi 👋, I'm Harsh Thakur<br>A web Developer From India<br>📫 How to reach me 
 [![](https://visitcount.itsvg.in/api?id=harshthakur2021&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<h3 align="center">Languages, Technologies & Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nodejs,express,nextjs,prisma,postgres,mongodb,mysql,firebase,figma,mui,linux,docker,kubernetes,notion,vscode,vite,git,github,vercel,netlify,postman,python,threejs" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=irohandev&theme=radical" alt="GitHub Streak" width="450"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=irohandev&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+    </td>
+  </tr>
+</table>
